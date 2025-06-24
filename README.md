@@ -138,7 +138,7 @@ graph TD
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=00D9FF&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Arnav-12&label=Profile%20Views&color=00D9FF&style=flat" alt="Profile Views" />
   
   **"Innovation distinguishes between a leader and a follower"** - Steve Jobs
   
