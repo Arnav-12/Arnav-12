@@ -110,7 +110,7 @@ graph TD
 
 </div>
 
-## 🏆 Achievements & Metrics
+<!--## 🏆 Achievements & Metrics
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
@@ -118,7 +118,7 @@ graph TD
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arnav-12&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
+</div>-->
 
 ## 🌐 Let's Connect & Collaborate!
 
