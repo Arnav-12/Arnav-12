@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm **Arnav Srivastava** 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI Research+Engineer+%7C+AI%2FML+Enthusiast;Building+Intelligent+Systems;Creating+Agentic+Workflows;Transforming+Ideas+into+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=30&amp;duration=3000&amp;pause=1000&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=AI+Research+Engineer+%7C+AI%2FML+Enthusiast;Building+Intelligent+Systems;Creating+Agentic+Workflows;Transforming+Ideas+into+Code" alt="Typing SVG" />
 </div>
 
 <div align="center">
